@@ -66,6 +66,9 @@ input::placeholder{
 .img-fluid {
   max-width: 71%;
 }
+.card{
+  width: 18rem;
+}
 
 @media screen and (max-width: 425px) {
   .nav-bar-wrapper{
@@ -80,5 +83,8 @@ input::placeholder{
 }
 p {
   font-size: 14px;
+}
+.card{
+  width: 25rem;
 }
 }
