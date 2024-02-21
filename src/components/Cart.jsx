@@ -17,7 +17,7 @@ const Cart = ({ cart, setCart }) => {
           cart.map((product) => {
             return (
               <>
-                <div className="card mb-3 cardsec">
+                <div className="card1 mb-3 cardsec">
                   <div className="row">
                     <div className="col-md-3">
                       <img
