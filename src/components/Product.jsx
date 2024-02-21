@@ -34,7 +34,7 @@ const Product = ({ items, cart, setCart }) => {
                   key={product.id}
                   className="col-lg-4 col-md-6 my-3 text-center"
                 >
-                  <div className="card">
+                  <div className="card" style={{ width: "18rem" }}>
                     <Link
                       to={`/product/${product.id}`}
                       style={{
