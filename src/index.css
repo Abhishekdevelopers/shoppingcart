@@ -82,5 +82,13 @@ input::placeholder{
 p {
   font-size: 14px;
 }
-
+.search-bar input{
+  width: 85%;
+}
+.search-bar {
+  width: 74%;
+}
+.brand {
+  width: 30%;
+}
 }
